@@ -2,7 +2,6 @@
 
 Lab 3 repository for Spring 2023 CPSC-254.
 
-Group Members
+## Group Members
 
-- Diamond Dinh
-
+- Diamond Dinh <diamondburned@csu.fullerton.edu>

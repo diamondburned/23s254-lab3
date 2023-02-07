@@ -1,0 +1,8 @@
+-g
+-std=c++17
+-Wall
+-Wextra
+-Wpedantic
+-Wno-c++98-compat-pedantic
+-Wno-c++11-compat-pedantic
+-Wno-c++14-compat-pedantic
